@@ -1,6 +1,6 @@
 {
   "name": "docusaurus-delete-version",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A script for deleting version from docusaurus versions",
   "repository": "https://github.com/yaeda/docusaurus-delete-version",
   "author": "Takeshi Yaeda <t.yaeda@gmail.com>",
