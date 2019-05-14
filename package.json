@@ -1,0 +1,16 @@
+{
+  "name": "docusaurus-delete-version",
+  "version": "0.1.0",
+  "description": "A script for deleting version from docusaurus versions",
+  "repository": "https://github.com/yaeda/docusaurus-delete-version",
+  "author": "Takeshi Yaeda <t.yaeda@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "docusaurus-delete-version": "docusaurus-delete-version.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "fs-extra": "^8.0.1"
+  }
+}
